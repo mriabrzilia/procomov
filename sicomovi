@@ -1,6 +1,6 @@
 {
   "nemeap": {
-    "pac": "co.d.db",
-    "hide": "yes"
+    "pac": "com.danieldeveloper.sincardmovie",
+    "hide": "com.danieldeveloper.sincardmoviecopy"
   }
 }
